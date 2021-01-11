@@ -7,7 +7,7 @@ I created <a href=https://play2048.co>2048</a>, a single-player sliding block pu
 ### Game Menu
 <img src="img/game.png" title="Game Menu" width="70%" height="70%">
 
-### Directory layout
+## Directory Layout
 
 ```bash
 .
@@ -22,7 +22,7 @@ I created <a href=https://play2048.co>2048</a>, a single-player sliding block pu
     └── GameTest.java
 ```
 
-## Running the game
+## Running The Game
 
 After compiling, run the following command inside the src folder
 
