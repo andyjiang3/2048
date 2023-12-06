@@ -1,5 +1,5 @@
 # 2048
-I created <a href=https://play2048.co>2048</a>, a single-player sliding block puzzle game, for my CIS 120 Final Project.
+I created <a href=https://play2048.co>2048</a>, a single-player sliding block puzzle game.
 
 ### Start Menu
 <img src="img/start.png" title="Start Menu" width="70%" height="70%">
